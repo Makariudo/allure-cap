@@ -1,4 +1,4 @@
-import "./app.pcss";
+import "./app.postcss";
 import App from "./App.svelte";
 
 const app = new App({
